@@ -1,0 +1,28 @@
+body{
+    background-color: #153448;
+}
+
+.card{
+    background-color: #F3CA52;
+}
+
+.card-img-top{
+    height: 300x;
+    width: 150px;
+}
+
+.card{
+    align-items: center;
+}
+
+h3{
+    color: #DFD0B8;
+}
+
+h4{
+    color: #DFD0B8;
+}
+
+label{
+    color: #DFD0B8;
+}
